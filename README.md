@@ -13,6 +13,17 @@ I'm a self-taught developer who loves learning new technologies and tackling exc
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alepimentel_)
 [![LinkedIn](https://img.shields.io/badge/linkedin-4BC73.svg?logo=linkedin&logoColor=while)](https://www.linkedin.com/in/alessandro-pimentel-535490211/)
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/alessandro-pimentel-535490211/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/alepimentel_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://discord.com/users/alepimentel">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</p>
 
 ## ⚡ What I'm Working On
 
@@ -22,7 +33,7 @@ I'm a self-taught developer who loves learning new technologies and tackling exc
 
 ## 💼 Technical Stack
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
