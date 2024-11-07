@@ -1,6 +1,6 @@
 ## 👋 Hey there! I'm Alessandro
 
-<p align="center">A 22-year-old Full Stack Developer from Uruguay 🇺🇾</p>
+<p align="left">A 22-year-old Full Stack Developer from Uruguay 🇺🇾</p>
 
 ---
 
