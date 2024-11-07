@@ -11,17 +11,9 @@ I'm a self-taught developer who loves learning new technologies and tackling exc
 
 ## 🤝 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/alessandro-pimentel-535490211/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/alepimentel_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://discord.com/users/alepimentel">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-</p>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/alepimentel) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alepimentel_)
+[![LinkedIn](https://img.shields.io/badge/linkedin-4BC73.svg?logo=linkedin&logoColor=while)](https://www.linkedin.com/in/alessandro-pimentel-535490211/)
 
 ---
 
