@@ -2,12 +2,10 @@
 
 <p align="left">A 22-year-old Full Stack Developer from Uruguay 🇺🇾</p>
 
---
 
 ## 🚀 About Me
 I'm a self-taught developer who loves learning new technologies and tackling exciting challenges. I enjoy staying up-to-date with the latest tools and technologies to continually improve and expand my skill set.
 
---
 
 ## 🤝 Connect with Me
 
@@ -15,14 +13,12 @@ I'm a self-taught developer who loves learning new technologies and tackling exc
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alepimentel_)
 [![LinkedIn](https://img.shields.io/badge/linkedin-4BC73.svg?logo=linkedin&logoColor=while)](https://www.linkedin.com/in/alessandro-pimentel-535490211/)
 
---
 
 ## ⚡ What I'm Working On
 
 - 💼 Working full-time at **Ventia** as a Full Stack Developer
 - 🚀 Building my own project called **BeScoutr**
 
---
 
 ## 💼 Technical Stack
 
