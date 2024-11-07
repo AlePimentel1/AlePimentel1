@@ -12,14 +12,15 @@ I'm a self-taught developer who loves learning new technologies and tackling exc
 <p align="left">
   <a href="https://www.linkedin.com/in/alessandro-pimentel-535490211/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  </a>&nbsp;
   <a href="https://www.instagram.com/alepimentel_/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
+  </a>&nbsp;
   <a href="https://discord.com/users/alepimentel" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
+
 
 ## ⚡ What I'm Working On
 
