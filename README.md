@@ -2,22 +2,22 @@
 
 <p align="left">A 22-year-old Full Stack Developer from Uruguay 🇺🇾</p>
 
-
 ## 🚀 About Me
+
 I'm a self-taught developer who loves learning new technologies and tackling exciting challenges. I enjoy staying up-to-date with the latest tools and technologies to continually improve and expand my skill set.
 
 
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/alessandro-pimentel-535490211/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=social&logo=linkedin" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/alessandro-pimentel-535490211/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/alepimentel_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-e4405f?style=social&logo=instagram" alt="Instagram">
+  <a href="https://www.instagram.com/alepimentel_/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://discord.com/users/alepimentel" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289da?style=social&logo=discord" alt="Discord">
+  <a href="https://discord.com/users/alepimentel" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
 
